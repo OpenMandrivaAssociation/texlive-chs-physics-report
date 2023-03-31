@@ -1,6 +1,6 @@
 Name:		texlive-chs-physics-report
 Version:	54512
-Release:	1
+Release:	2
 Summary:	Physics lab reports for Carmel High School
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chs-physics-report
