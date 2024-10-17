@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	Physics lab reports for Carmel High School
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chs-physics-report
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/chs-physics-report
 License:	pd cc-by-sa-3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chs-physics-report.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chs-physics-report.doc.r%{version}.tar.xz
